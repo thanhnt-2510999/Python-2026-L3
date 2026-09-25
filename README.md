@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-* Your name here
-* Your ID here
+* Nguyễn Tuấn Thành
+* 2510999
